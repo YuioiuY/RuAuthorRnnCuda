@@ -24,7 +24,6 @@ else:
 
 navec = help_tar.get_navec()
 
-# Dataset paths
 DATASET_PATH = "./dataset"
 FILE_DIR_POEMS = os.path.join(DATASET_PATH, "poems")
 FILE_DIR_PROSE = os.path.join(DATASET_PATH, "prose")
