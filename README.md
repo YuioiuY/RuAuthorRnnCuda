@@ -1,7 +1,7 @@
 # RuAuthorRnnCuda
 # Наилучший результат обучения! 
 
-![alt text](https://github.com/YuioiuY/GPT_Discord/blob/main/RuAuthorRnnCuda/Acc.png)
+![alt text](https://github.com/YuioiuY/RuAuthorRnnCuda/blob/main/Acc.png)
 
 В качетве текста был выбран Максим Горький. Есть мнение, что Горький был преемником и продолжателем творчества Пушкина, не в формальном отношении, а по существу и по духу.
 
