@@ -16,13 +16,13 @@ https://storage.yandexcloud.net/academy.ai/russian_literature.zip
 
 - tensorflow == 2.10
 - [CUDA Version](https://developer.nvidia.com/cuda-11-8-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_network): 11.8 
-- [Python 3.10.13](https://www.python.org/downloads/release/python-31013/))
+- [Python 3.10.13](https://www.python.org/downloads/release/python-31013/)
 
 # Комманды для проверки
 
 nvidia-smi
 
-# Установите CUDA и cuDNN
+# Установка CUDA и cuDNN
 Если драйвер есть, но TensorFlow всё ещё не видит видеокарту, нужно установить CUDA Toolkit и cuDNN.
 
 Установка CUDA:
